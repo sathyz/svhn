@@ -1,3 +1,14 @@
+Synthetic Dataset
+Training
+	Accuracy (single): 95.09% (276175/290437)
+	Accuracy (seq): 88.90% (106679/120000)
+	Accuracy (length): 99.78% (119738/120000)
+Test
+	Accuracy (single): 94.93% (13790/14527)
+	Accuracy (seq): 88.43% (5306/6000)
+	Accuracy (length): 99.75% (5985/6000)
+
+SVHN Dataset
 Training..
 	Accuracy (single): 90.80% (66519/73257)
 	Accuracy (seq): 84.31% (28162/33402)
