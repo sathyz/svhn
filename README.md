@@ -1,5 +1,5 @@
-# svhn
-Street View House Numbers
+# Street View House Numbers
+Attempt to solve Street View House Numbers recognition in keras using [arXiv:1312.6082](https://arxiv.org/abs/1312.6082)
 
 ```
 Training..
